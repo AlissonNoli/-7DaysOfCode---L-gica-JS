@@ -24,3 +24,23 @@ if (numeroDez == stringDez) {
 } else {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }
+
+
+  /*Usamos == para comparar apenas valores, sem nos importar se são valores do mesmo tipo. Aqui, comparamos se o número 3 é igual à string 3:
+  3 == '3' (true)
+  
+  Usamos === para comparar se os valores e os tipos são iguais.
+  Comparar número e string
+  3 === '3' (false)
+  
+  Comparar número e número
+  3 === 3 (true)
+  
+  Comprar string e string
+  '3' === '3' (true)*/
+ 
+
+  
+
+  
+ 
