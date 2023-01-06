@@ -1,3 +1,5 @@
+//Desafio dia 1 - Operações Booleanas
+
 let numeroUm = 1
 let stringUm = '1'
 let numeroTrinta = 30
