@@ -1,4 +1,6 @@
-//Desafio dia 1 - Operações Booleanas
+/*Desafio dia 1 - Operações Booleanas
+ Tarefa de hoje é reescrever o código abaixo de maneira que ele imprima as informações
+ de maneira correta, que faça sentido e sem erros:*/
 
 let numeroUm = 1
 let stringUm = '1'
