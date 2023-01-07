@@ -6,12 +6,10 @@ desenvolver um programa simulando um desses sites. Ele deve pedir para o usuári
 - Qual linguagem de programação você está estudando?
 
 À medida que as perguntas forem sendo feitas, a pessoa que estiver usando o programa deve responder cada uma delas.
-
 No final, o sistema vai exibir a mensagem:
+
 "Olá [nome], você tem [idade] anos e já está aprendendo [linguagem]!"
-
 Você vai complementar o código para que, depois de exibir a mensagem anterior, o programa pergunte:
-
 Você gosta de estudar [linguagem]? Responda com o número 1 para SIM ou 2 para NÃO.*/
 
 const nome = prompt("Digite o seu nome:");
